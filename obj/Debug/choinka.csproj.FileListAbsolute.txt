@@ -1,0 +1,15 @@
+C:\Users\Dimon\source\repos\choinka\bin\Debug\choinka.exe.config
+C:\Users\Dimon\source\repos\choinka\bin\Debug\choinka.exe
+C:\Users\Dimon\source\repos\choinka\bin\Debug\choinka.pdb
+C:\Users\Dimon\source\repos\choinka\obj\Debug\choinka.csproj.AssemblyReference.cache
+C:\Users\Dimon\source\repos\choinka\obj\Debug\choinka.Form1.resources
+C:\Users\Dimon\source\repos\choinka\obj\Debug\choinka.Properties.Resources.resources
+C:\Users\Dimon\source\repos\choinka\obj\Debug\choinka.csproj.GenerateResource.cache
+C:\Users\Dimon\source\repos\choinka\obj\Debug\choinka.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\source\repos\choinka\obj\Debug\choinka.exe
+C:\Users\Dimon\source\repos\choinka\obj\Debug\choinka.pdb
+C:\Users\Dimon\source\repos\choinka\bin\Debug\Interop.WMPLib.dll
+C:\Users\Dimon\source\repos\choinka\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Dimon\source\repos\choinka\obj\Debug\Interop.WMPLib.dll
+C:\Users\Dimon\source\repos\choinka\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Dimon\source\repos\choinka\obj\Debug\choinka.csproj.ResolveComReference.cache
